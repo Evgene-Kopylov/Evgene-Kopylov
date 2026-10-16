@@ -13,11 +13,20 @@
   запросов, 270+ тестов, CI/CD из 7 стадий.
   https://github.com/Evgene-Kopylov/fsrs_plugin
 
+## Коммерческий опыт
+
+- **Десктоп-приложение на Rust** — ядро на Tokio, Axum, Diesel; обработка
+  видео через FFmpeg. Инженерная гигиена — тесты, CI/CD, миграции БД.
+
+## Статьи
+
+- Habr: https://habr.com/ru/users/EvgeneKopylov/articles/ — Rust/WASM, CI/CD
+  в Docker, аудио-захват, FSRS-плагин.
+
 ## Ссылки
 
 - GitHub: https://github.com/Evgene-Kopylov
 - GitLab: https://gitlab.com/Evgene-Kopylov
-- Habr: https://habr.com/ru/users/EvgeneKopylov/articles/
 - Telegram: @EvgeneKopylov
 
 ## Ищу
