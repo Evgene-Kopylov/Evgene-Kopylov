@@ -1,16 +1,29 @@
-## Hi there 👋
+# Евгений Копылов
 
-<!--
-**Evgene-Kopylov/Evgene-Kopylov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Инженер. Владею задачей от анализа до production: сам декомпозирую,
+выбираю инструмент, довожу до результата.
 
-Here are some ideas to get you started:
+Предпочитаю Rust — выбираю то, что подходит задаче.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+- **FSRS-плагин для Obsidian** — open-source, в каталоге сообщества.
+  Интервальное повторение заметок на современном алгоритме FSRS. Работает
+  локально с Markdown-заметками как есть, собственный SQL-подобный язык
+  запросов, 270+ тестов, CI/CD из 7 стадий.
+  https://github.com/Evgene-Kopylov/fsrs_plugin
+
+- **map-control** — контроллер 2D-карт, Rust → WebAssembly (macroquad).
+  https://github.com/Evgene-Kopylov/map-control
+
+## Ссылки
+
+- GitHub: https://github.com/Evgene-Kopylov
+- GitLab: https://gitlab.com/Evgene-Kopylov
+- Habr: https://habr.com/ru/users/EvgeneKopylov/articles/
+- Telegram: @EvgeneKopylov
+
+## Ищу
+
+Роль с ownership и сложными инженерными задачами — от проектирования до
+эксплуатации.
