@@ -13,9 +13,6 @@
   запросов, 270+ тестов, CI/CD из 7 стадий.
   https://github.com/Evgene-Kopylov/fsrs_plugin
 
-- **map-control** — контроллер 2D-карт, Rust → WebAssembly (macroquad).
-  https://github.com/Evgene-Kopylov/map-control
-
 ## Ссылки
 
 - GitHub: https://github.com/Evgene-Kopylov
